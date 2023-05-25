@@ -11,7 +11,7 @@ public class DatabaseExample {
     public static void main(String[] args) {
         // Call the Create_table method or perform other database operations
         // Create_table();
-        FillData();
+        // FillData();
         ShowData();
     }
 
@@ -42,10 +42,10 @@ public class DatabaseExample {
 
     public static void FillData() {
         // Assume you have the necessary variables for data
-        int id = 3;
-        String name = "TT";
-        int age = 20;
-        double salary = 500000.00;
+        int id = 69;
+        String name = "Avinash";
+        int age = 80;
+        double salary = 5000000.00;
 
         String url = "jdbc:mysql://localhost:3306/student";
         String username = "root";

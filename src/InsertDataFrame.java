@@ -14,7 +14,7 @@ public class InsertDataFrame extends JFrame {
     public InsertDataFrame() {
         // Set JFrame properties
         setTitle("Insert Data Example");
-        setSize(300, 200);
+        setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         // Create the ID field and label
